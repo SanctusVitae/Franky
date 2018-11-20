@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=UyK9geJasjE 8:55
+
+https://www.codeproject.com/Articles/9504/Driver-Development-Part-1-Introduction-to-Drivers /SUBSYSTEM:NATIVE /DRIVER:WDM –entry:DriverEntry
+
+https://www.youtube.com/watch?v=FRu7WYFvzmg
